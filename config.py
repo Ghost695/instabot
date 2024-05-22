@@ -1,0 +1,5 @@
+inst_login = ''
+inst_pwd = ''
+mega_login = ''
+mega_pwd = ''
+lang = 'ru'
